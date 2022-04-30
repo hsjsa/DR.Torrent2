@@ -67,65 +67,34 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.</b></h4>
 <h4><b>Here is the full list of Commands which are available in Bot! Some commands should be used as the reply or with the content discussed as above!</b></h4>
 <h4><b>
 /hlp: If this Command is used by Users then it will show commands which can be used by them only! But if used by owners then full list will be shown.<br>
----<br>
 /mirror: This Command can be used as reply for Torrent File/Magnet Link or Direct Download Link or Telegram files to download them and to upload it to Google Drive. If used for downloading torrents then it will use aric as the Download Engine.<br>
----<br>
 /mirror qb: This command can only be used for Torrents! It will guide Bot to use qBitorrent to download torrent either from file or Magnet Link.<br>
----<br>
 /mirror qbs: This command will guide Bot to use qBitorrent to download Torrent and provide Users choice to Select files before downloading it from Torrent.<br>
----<br>
 /tar: This Command can be used with Direct download link or Telegram Files or Google Drive Link to pack them into .tar format.<br>
----<br>
 /zip: This Command can be used with Direct download link or Telegram Files or Google Drive Link to pack them into .zip format.<br>
----<br>
 /unzip: This Command can be used with Direct download link or Telegram Files or Google Drive Link to unpack them from .zip format.<br>
----<br>
 /clone: This Command can be used to clone Files from a Google Drive Shared Link.<br>
----<br>
 /count: This Command can be used to get the actual size of Shared Drive/My Drive/Folder or a particular file and number of files present in it. Send the Google Drive link with the command<br>
----<br>
 /del: This Command should be used with Google Drive link provided by the Bot itself to delete it!<br>
----<br>
 /watch: This Command should be used to Download YouTube Videos or Playlist links. The complete syntax of this command is written in above section.<br>
----<br>
 /tarwatch: This Command should be used to Download YouTube Videos or Playlist links and pack them into .tar format.<br>
----<br>
 /cancel: Reply to the message by which the download was initiated and that download will be cancelled or send it with cancel ID<br>
----<br>
 /cnlall: Cancel all running tasks, it can only be used by Owner.<br>
----<br>
 /list [Your Query Here]: This command should be used to search anything in your Google Drive or Shared Drive with search term. The Search result will be shown on Telegraph.<br>
----<br>
 /status: Shows a status of all the downloads<br>
----<br>
 /stat: Show Stats of the machine the bot is hosted on<br>
----<br>
-/ping: Check how long it takes to Ping the Bot<br>
----<br>
 /auth: Authorize a chat or a user to use the bot (Can only be invoked by Owner & Sudo of the bot)<br>
----<br>
 /unauth: Unauthorize a chat or a user to use the bot (Can only be invoked by Owner & Sudo of the bot)<br>
----<br>
 /users: Show authorized users (Only Owner & Sudo)<br>
----<br>
 /addsudo: Add sudo user (Only Owner)<br>
----<br>
 /rmsudo: Remove sudo users (Only Owner)<br>
----<br>
 /restart: Restart the bot<br>
----<br>
 /log: Get a log file of the bot. Handy for getting crash reports<br>
----<br>
 /config: Get Info Menu about bot config (Owner Only)<br>
----<br>
 /update: Update Bot from Upstream Repo (Owner Only)<br>
----<br>
 /speedtest: Check Internet Speed of the Host<br>
----<br>
 /shell: Run commands in Shell (Terminal)<br>
----<br>
 /exechelp: Get help for Executor module (Only Owner)<br>
----<br>
 /gdtot: Send GDTOT link along with command <br></b></h4>
 <h2>🖥️ How to use?</h2>
 <h4><b>There is no need to deploy your own Bot! You can use this Bot immediately on Telegram or ask you query and problems :<a href="https://t.me/DrTorrent"> Dr.Torrent</a></b></h4>
